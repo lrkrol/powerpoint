@@ -16,5 +16,5 @@ Velis is a simple, unassuming template inspired by traditional stage curtains.
 
 ![Velis sample slide thumbnails](../docs/lrk-slides-velis-thumbs.png)
 
-- [Download Velis template](../lrk-slides-velis.potx)
-- [Download Velis sample slides (PDF)](../docs/lrk-slides-velis-sample.pdf)
+- [Download Velis template](https://github.com/lrkrol/powerpoint/raw/master/lrk-slides-velis.potx)
+- [Download Velis sample slides (PDF)](https://github.com/lrkrol/powerpoint/raw/master/docs/lrk-slides-velis-sample.pdf)
