@@ -14,7 +14,7 @@ Velis is a simple, unassuming template inspired by traditional stage curtains.
 - Correct input field order on each slide.
 - Special closing slide layout.
 
-![Velis sample slide thumbnails](https://github.com/lrkrol/powerpoint/raw/master/docs/lrk-slides-velis-thumbs.png)
+![Velis sample slide thumbnails](../docs/lrk-slides-velis-thumbs.png)
 
-- [Download Velis template](lrk-slides-velis.potx)
-- [Download Velis sample slides (PDF)](docs/lrk-slides-velis-sample.pdf)
+- [Download Velis template](../lrk-slides-velis.potx)
+- [Download Velis sample slides (PDF)](../docs/lrk-slides-velis-sample.pdf)
