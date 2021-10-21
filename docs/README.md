@@ -10,7 +10,7 @@ This repository contains the PowerPoint templates I've been using along with dem
 Velis is a simple, unassuming template inspired by traditional stage curtains.
 - Single- and double-title designs, the latter e.g. to include section breadcrumbs.
 - A number of slide layouts for each design.
-- Template graphics are linked to the colour theme (using "Accent 1"), which can easily be changed.
+- Template graphics are linked to the [colour theme](https://coolors.co/005c69-89b0ae-d73371-dba8ac-58641d-bcbf79) (using "Accent 1"), which can easily be changed.
 - Correct input field order on each slide.
 - Special closing slide layout.
 
